@@ -4,7 +4,7 @@ cases on dash boarding and finding insights through data driven techniques. High
 evolve by adapting to latest trends in data analytics ecosystem.
 
 
-Languages : Python, SQL.
+###Languages : Python, SQL.
 Visualization : Tableau, matplotlib, seaborn.
 Statistical / Machine Learning techniques :
 Regression, Classification, Time series models,
@@ -12,7 +12,7 @@ Clustering, Anamoly detection.
 
 
 
-DATA ENGINEER INTERN TRANSCLOUD:
+###DATA ENGINEER INTERN TRANSCLOUD:
 RESPONSIBILITIES
 Developed solutions to create and update data through API based framework
 Developing solutions in an Agile environment
@@ -25,13 +25,13 @@ team
 Strong analytical capabilities to translate requirements into solutions
 
 
-Medical records representative
+###Medical records representative
 RESPONSIBILITIES:
 Indexing the patients records which are eligible for Coding.
 Verifying the documents and sending back to the clients end which seem to be ineligible.
 Contacting the clients and follow up the records which needs documentation
 
-Customer supprt executive
+####Customer supprt executive
 RESPONSIBILITIES
 Preparing reports on the activities of the Customer Care department or team.
 Answer calls professionally to provide information about products and services, take/ cancel orders, or
