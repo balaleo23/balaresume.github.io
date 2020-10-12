@@ -30,7 +30,7 @@ Indexing the patients records which are eligible for Coding.
 Verifying the documents and sending back to the clients end which seem to be ineligible.
 Contacting the clients and follow up the records which needs documentation
 
-#### Customer support executive
+### Customer support executive
 RESPONSIBILITIES
 Preparing reports on the activities of the Customer Care department or team.
 Answer calls professionally to provide information about products and services, take/ cancel orders, or
